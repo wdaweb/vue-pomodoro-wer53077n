@@ -2,7 +2,7 @@
 
 **請將作業上傳到自己的 GitHub 儲存庫**  
 **再將本檔案下方的作業連結改為自己的 GitHub 儲存庫**  
-**未修改連結視同零分**
+**未修改連結或未開啟 GitHub Pages 視同零分**
 
 ## 繳交時間
 2022 年 7 月 20 日
@@ -20,12 +20,10 @@
 ## 分數分配
 |項⽬|說明|分數|
 |:---|:---|:---|
-|上傳到 GitHub|是否將作品上傳⾄自己的 GitHub|10|
-|GitHub Pages|是否開啟 GitHub Pages|20|
-|GitHub Actions|是否設定 itHub Actions 自動打包部署|20|
-|PWA|是否有設定 PWA|10|
-|META 設定|是否有設定社群分享 META 標籤(og meta 與 twitter meta)|10|
-|功能|是否完成基本功能|20|
+|GitHub Actions|是否設定 GitHub Actions 自動打包部署|20|
+|PWA|是否有設定 PWA|15|
+|META 設定|是否有設定社群分享 META 標籤(og meta 與 twitter meta)|15|
+|功能|是否完成基本功能|40|
 |版面|版面設計完成度|10|
 
 ## 注意
