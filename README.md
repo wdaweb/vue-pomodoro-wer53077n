@@ -3,7 +3,7 @@
 **請將作業上傳到自己的 GitHub 儲存庫**  
 **再將本檔案下方的作業連結改為自己的 GitHub 儲存庫**  
 **未修改連結或未開啟 GitHub Pages 視同零分**  
-**繳交上課範例、或是繳交修改過的上課範例 (改顏色、換圖片) 視同零分**
+**繳交上課範例、或是繳交修改過的上課範例 （改顏色、換圖片） 視同零分**
 
 ## 繳交時間
 2023 年 1 月 18 日
@@ -19,17 +19,22 @@
 - 能開始、暫停與跳過倒數
 
 ## 分數分配
-|項⽬|說明|分數|
-|:---|:---|:---|
-|GitHub Actions|是否設定 GitHub Actions 自動打包部署|20|
-|PWA|是否有設定 PWA|15|
-|META 設定|是否有設定社群分享 META 標籤(og meta 與 twitter meta)|15|
-|功能|是否完成基本功能|40|
-|版面|版面設計完成度|10|
+|項⽬|分數|
+|:---|:---|
+|能使用 HTML 及 CSS 製作網頁版面設計|10|
+|能應用 HTML 及 CSS 功能來增加網頁的動態效果|10|
+|能成功引入 JavaScript 前端框架並進行佈署|10|
+|能使用 JavaScript 前端框架設定 Function 功能|10|
+|能使用 JavaScript 前端框架完成 Event Handling|10|
+|能使用 JavaScript 前端框架進行雙向資料綁定功能|10|
+|能使用 JavaScript 前端框架運行 Computed 功能|10|
+|能使用 JavaScript 前端框架製作 To Do List 功能|10|
+|能將成果的程式碼檔案上傳至 GitHub 網站保存|10|
+|能運用 GitHub 網站提供的 GitHub Page 功能來公開展示前端網頁成品|10|
 
 ## 注意
 請盡量使用上課教的 GUI 工具或 git 指令繳交作業  
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [GitHub](https://github.com/)
+- [GitHub](https://GitHub.com/)
